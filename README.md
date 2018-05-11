@@ -1,11 +1,11 @@
 ## Sentiment Classification using LogisticRegression
-Text Sentiment Classification.A classic Machine learning classification example.
+Text Sentiment Classification. A classic Machine learning classification example.
 - <h3>Dataset used:</h3>
  - [Movie reviews Dataset](http://ai.stanford.edu/~amaas/data/sentiment)
  - Contains 25000 positive and 2500 negative reviews
- - Contains at most 30 reviews per moview
+ - Contains at most 30 reviews per movie
 - <h3>Text Processing step:</h3>
- - Removing Stop word, Punctuation, etc..
+ - Removing Stop words, Punctuations, etc..
  - Tokenization (TreebankWordTokenizer)
  - Normalization (WordNetLemmatizer)
  - Feature Extraction (TF-IDF)
