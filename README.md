@@ -2,6 +2,7 @@ Sentiment Classification using LogisticRegression
 -------------------------------------------------
 
 A classic machine learning example for text classification.
+Main program: model_train_test.py
 
 Dataset used:
 -------------
@@ -19,6 +20,5 @@ Text Processing step:
 Classifier used:
 ----------------
 	- Logistic Regression
-
-F1-Score: 0.88
-Main program: model_train_test.py
+    - F1-Score: 0.88
+    
